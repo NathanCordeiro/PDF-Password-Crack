@@ -1,4 +1,4 @@
-# PDF Password Recovery Script
+# PDF Password Crack
 
 ## Description
 This Python script is designed to assist in decrypting and recovering the password for encrypted PDF files. There are two approaches beind used,
