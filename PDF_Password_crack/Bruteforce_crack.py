@@ -40,7 +40,7 @@ def brute_force_decrypt(input_pdf, output_pdf, min_length=5, max_length=6):
     print("Failed to decrypt PDF with brute force.")
 
 # Example usage:
-input_pdf = 'encrypted_document.pdf'
-output_pdf = 'decrypted_document.pdf'
+input_pdf = 'encrypted_document.pdf'    # Write the name of the pdf or the path of the file
+output_pdf = 'decrypted_document.pdf'   #  Write the name of the output file
 
 brute_force_decrypt(input_pdf, output_pdf)
