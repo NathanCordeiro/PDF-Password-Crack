@@ -25,10 +25,14 @@ This can be useful if you have forgotten the password to a PDF file that you enc
 
 3. Run the script:
    ```sh
-   python brute_force_decrypt.py
+   python Bruteforce_crack.py
+   ```
+   `or`
+   ```sh
+   python Dictionary_crack.py
    ```
 
-4. Wait for the script to finish running. If the correct password is found, it will be printed along with the elapsed time.
+5. Wait for the script to finish running. If the correct password is found, it will be printed along with the elapsed time.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
