@@ -48,5 +48,5 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 ## Acknowledgements
 - This script utilizes the [pikepdf](https://github.com/pikepdf/pikepdf) library for working with PDF files.
 
-## Disclaimer
-This script is provided for educational and informational purposes only. Use it responsibly and ensure that you have the legal right to access the PDF file you are attempting to decrypt.
+> [!IMPORTANT]
+> This script is provided for educational and informational purposes only. Use it responsibly and ensure that you have the legal right to access the PDF file you are attempting to decrypt.
